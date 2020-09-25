@@ -8,6 +8,7 @@
      </li>
    </ul>
    
+   <h3>Recupere e mostre todas as imagens (url) do álbum 3 em uma lista</h3>
 
    <button @click="fetchPhotos">Fetch Photos</button>
  </div>
