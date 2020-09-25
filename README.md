@@ -1,19 +1,6 @@
 # atv3
 
-## Project setup
-```
-npm install
-```
+#### Desenvolvimento de Software para WEB
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Utilizando o Vue.js e o Axios
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
